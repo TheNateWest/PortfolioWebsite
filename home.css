@@ -18,4 +18,13 @@
 
 body {
     background-color: black;
+    /* background-image: url(./images/PortfolioBackground2.avif);
+    width: fit-content;
+    height: fit-content;
+    background-repeat: no-repeat; */
+}
+
+h1 {
+    font-size: 30px;
+    padding: 20px;
 }
